@@ -4,4 +4,4 @@ A group to discuss methods related to single cell data. Enumerating all successf
 
 Organizer: Gael Cagnone
 
-Join the mailing list here: to come
+Join the mailing list here: https://groups.google.com/forum/#!forum/single-cell-academy
